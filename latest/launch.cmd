@@ -1,0 +1,1 @@
+docker run --name test-nginx-container -d -p 8080:80 nginx-image-test:v0

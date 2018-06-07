@@ -1,0 +1,6 @@
+# docker build -t nginx-image-test:v0 .
+
+# docker run -d nginx-image-test:v0
+
+
+# curl docker

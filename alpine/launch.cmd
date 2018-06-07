@@ -1,0 +1,1 @@
+docker run --name test-nginx-alpine-container -d -p 8081:80 nginx-alpine-image-test:v0
